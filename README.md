@@ -1,4 +1,4 @@
-# Solo Project (PRO) - Send to Pager
+# Solo Project (PRO) - Send to Pager App
 Solo Project aimed for Advanced Students learning Frontend development & javascript.
 
 ## Requirements
