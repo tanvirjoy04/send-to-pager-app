@@ -1,6 +1,10 @@
 # Send to Pager App
 Project aimed for Advanced Students learning Frontend development & javascript.
 
+First hands-on-built interactive App of my life. 🎉, 👏, 🎊, 🎈
+
+Congratulations to me.
+
 ## Requirements
 - Build it from scratch
 - Follow the design
